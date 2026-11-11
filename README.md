@@ -25,7 +25,7 @@ What I would point a reviewer to:
 
 ## Featured project: AI Hypnotherapist
 
-A spoken consultation with an AI consultant, followed by a personal self-guided hypnotherapy session written from it, with a dashboard where the practice reviews everything. It is a clinician-support workflow, not a diagnostic system, and it runs as a live product.
+A spoken consultation with an AI consultant, followed by a personal self-guided hypnotherapy session written from it, with a dashboard where the practice reviews everything. It is a clinician-support workflow, not a diagnostic system, and it runs as a live product. https://www.hypnotreatment.uk/ai-hypnotherapist
 
 **Code and design notes:** [ai-hypnotherapist](https://github.com/CEO3000/ai-hypnotherapist)
 
