@@ -57,10 +57,6 @@ What I would point a reviewer to:
 
 The product's own writing and cover-design rules are private, so the repository ships clearly labelled stand-ins and no secrets.
 
-## Also
-
-- **SocialField badge generator**, a small, self-contained web page and badge (HTML and SVG) that lets event organisers add a "Book our events on SocialField" link to their own website.
-
 ## Technologies
 
 Python, JavaScript, TypeScript · Claude API, Gemini API, prompt engineering, agentic workflows · Playwright, GitHub Actions · FastAPI, Node.js, React, Next.js · Firebase, SQLite · Stripe, REST APIs
